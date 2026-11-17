@@ -1,0 +1,16 @@
+BLACKOUT 3X3 — SITE OFICIAL
+
+COMO ABRIR
+Abra index.html no navegador, ou publique a pasta inteira (Netlify Drop, GitHub Pages, sua hospedagem).
+
+COMO ATUALIZAR
+1. Abra admin/index.html. Edite jogadores, jogos, resultados, patrocinadores, uniformes e textos.
+2. Clique em "Baixar data.js" e substitua o arquivo assets/js/data.js.
+3. Publique a pasta de novo.
+
+FOTOS E LOGO
+- Logo oficial: substitua assets/img/logo.png (a logo atual é provisória) ou informe outro caminho no painel.
+- Fotos: guarde em assets/img/ e informe o caminho no painel (ex.: assets/img/jogador-1.jpg).
+
+CONTATO
+Preencha WhatsApp e/ou e-mail em "Time e contatos". Os formulários abrem o WhatsApp/e-mail com a mensagem pronta.
